@@ -1,0 +1,42 @@
+{
+  "version_tracking": "mangaJSONV1.0 Rev 0",
+  "manga_id": "a-dragonslayers-peerless-regression",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": "Yongsaljaui Sipgichan Hoegwi, The Peerless Regression of the Dragon Slayer",
+  "status": "Ongoing",
+  "author": "Do-shin",
+  "artist": "Woo-gack",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Manhwa",
+    "Regression"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 4.8,
+  "synopsis": "Setelah kegagalan umat manusia dalam menumbangkan naga terakhir, sang pembantai naga (Dragonslayer) terkuat mendapatkan kesempatan kedua. Ia kembali ke masa lalu dengan ingatan dan kemampuan yang belum terasah, bertekad untuk merubah takdir masa depan dan memastikan regresi kali ini menjadi akhir yang tiada tanding.",
+  "cover_url": "https://raw.githubusercontent.com/username/monstacomic-storage/main/covers/a-dragonslayers-peerless-regression.jpg",
+  "chapters": [
+    {
+      "chapter_number": "01",
+      "chapter_title": "Prologue: Kejatuhan dan Kesempatan Kedua",
+      "images": [
+        "https://raw.githubusercontent.com/username/monstacomic-storage/main/chapters/a-dragonslayers-peerless-regression/ch-01/001.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-storage/main/chapters/a-dragonslayers-peerless-regression/ch-01/002.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-storage/main/chapters/a-dragonslayers-peerless-regression/ch-01/003.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-storage/main/chapters/a-dragonslayers-peerless-regression/ch-01/004.jpg"
+      ]
+    },
+    {
+      "chapter_number": "02",
+      "chapter_title": "Kebangkitan Sang Pembantai",
+      "images": [
+        "https://raw.githubusercontent.com/username/monstacomic-storage/main/chapters/a-dragonslayers-peerless-regression/ch-02/001.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-storage/main/chapters/a-dragonslayers-peerless-regression/ch-02/002.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-storage/main/chapters/a-dragonslayers-peerless-regression/ch-02/003.jpg"
+      ]
+    }
+  ]
+}
